@@ -1,2 +1,2 @@
-# DP4--Competitie-Coding-Assignments 
+# DP4--Competitive-Coding-Assignments 
 
